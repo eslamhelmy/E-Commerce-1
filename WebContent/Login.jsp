@@ -11,7 +11,8 @@
 user<input type="text" name="user">
 pass<input type="password" name="pass">
 <input type="submit" value="ok">
-
+<input type="submit" value="ok">
+   
 </form>
 </body>
 </html>
